@@ -11,6 +11,7 @@ $ sudo vim /etc/apt/sources.list.d/docker.list
 ```  
 在里面添加内容:  
 > deb https://apt.dockerproject.org/repo ubuntu-xenial main  
+
 - 更新源  
 ```  
 $ sudo apt update  
